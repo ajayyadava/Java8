@@ -1,0 +1,1 @@
+Toy project for practicing Java8 constructs 
